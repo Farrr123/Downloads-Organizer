@@ -15,10 +15,15 @@
 📊 Sample Output
 
 --- Processing Directory: D:\Downloads ---
+
 [+] book.pdf -> document
+
 [+] data.xlsx -> document
+
 [+] movie.mkv -> video
+
 [+] photo.png -> image
+
 [+] song.mp3 -> audio
 
 --- Summary Statistics ---
