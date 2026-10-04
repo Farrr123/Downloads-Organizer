@@ -30,3 +30,29 @@ video: 2
 image: 2
 audio: 2
 total: 11
+
+## Technologies
+Python 3
+pathlib
+collections.Counter
+
+## How It Works
+1. The program scans the selected folder.
+2. It checks each file extension.
+3. The file is assigned to a category.
+4. The program displays the category for each file.
+5. It calculates summary statistics.
+
+## Safety
+This version is a dry run.
+
+It only analyzes and categorizes files.
+It does not move, delete, or modify any files.
+
+## Project Structure
+```text
+Downloads Organizer/
+├── downloads_organizer.py
+├── README.md
+├── screenshot.png
+└── Test Files/
